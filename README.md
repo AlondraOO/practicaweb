@@ -2,10 +2,10 @@ PRACTICA DE BASES DE DATOS
 --
 PARTE 3.1 
 -
-se contiene lo siguientes los archivos en el repositorio que perteneces a la parte 3.1
- +index.html
- +index.j
- +package.json
+se contiene lo siguientes los archivos en el repositorio que perteneces a la parte 3.1 
+    index.html
+    index.j
+    package.json
  
 DECISIÓN DE TECNOLOGÍAS
 -
