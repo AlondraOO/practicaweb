@@ -1,7 +1,12 @@
 PRACTICA DE BASES DE DATOS 
 --
 PARTE 3.1 
---
+-
+se contiene lo siguientes los archivos en el repositorio que perteneces a la parte 3.1
+ +index.html
+ +index.j
+ +package.json
+ 
 DECISIÓN DE TECNOLOGÍAS
 -
 Desarrollar una aplicación web gratuita utilizando tecnologías como MongoDB, Render, JavaScript y GitHub ofrece múltiples ventajas que abarcan desde la eficiencia en el manejo de datos hasta la facilidad de despliegue y colaboración. Cada una de estas herramientas aporta un valor específico que justifica su elección en un proyecto de desarrollo web moderno.
@@ -60,3 +65,4 @@ Conexión a Base de Datos
 --
 La conexión se realiza mediante mongoose.connect(process.env.MONGODB_URI).
 MongoDB almacena los estudiantes como documentos en una colección, ofreciendo persistencia y consultas rápidas.
+
