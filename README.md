@@ -66,3 +66,6 @@ Conexión a Base de Datos
 La conexión se realiza mediante mongoose.connect(process.env.MONGODB_URI).
 MongoDB almacena los estudiantes como documentos en una colección, ofreciendo persistencia y consultas rápidas.
 
+PARTE 4.1
+--
+
